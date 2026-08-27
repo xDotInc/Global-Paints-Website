@@ -1,0 +1,418 @@
+{
+  "company": {
+    "name": "Global Paints & Coatings",
+    "tagline": "Let Us Color Your World.",
+    "founder": "Milton Manda",
+    "address": "36 Mpumelelo Road, Kelvin North, Bulawayo, Zimbabwe",
+    "email": "globalpaintzim@gmail.com",
+    "phone": "078 028 1611",
+    "phoneAlt": "+263 77 980 0917",
+    "whatsappNumber": "263712397200",
+    "radio": "Skyz Metro FM 100.3"
+  },
+  "awards": [
+    {
+      "year": "2023",
+      "title": "SME Graduation Certificate",
+      "detail": "Graduated from Micro to Small Enterprise — 9 June 2023."
+    },
+    {
+      "year": "2024",
+      "title": "Bronze Winner, Male Entrepreneur of the Year",
+      "detail": "Megafest Business Awards, Southern Region — 6 December 2024."
+    },
+    {
+      "year": "2025",
+      "title": "Certificate of Appreciation",
+      "detail": "The Neighbour Magazine SME Business Awards — December 2025."
+    },
+    {
+      "year": "2026",
+      "title": "Certificate of Excellence, Best Paints & Coatings Supplier",
+      "detail": "Bulawayo Business Awards — 2026."
+    }
+  ],
+  "heroSlides": [
+    {
+      "eyebrow": "Global Paints & Coatings",
+      "heading": "Find the <em>colour</em> that feels like home.",
+      "body": "Reliable paints and coatings for homes, businesses, and projects across Zimbabwe.",
+      "primaryLabel": "Explore Colour Studio",
+      "primaryHref": "colours.html",
+      "secondaryLabel": "View Projects",
+      "secondaryHref": "projects.html",
+      "image": "assets/projects/project-13.jpg"
+    },
+    {
+      "eyebrow": "Made for real projects",
+      "heading": "<em>Protection</em> that stands up to African conditions.",
+      "body": "Choose the right coating for walls, roofs, stoeps, wood, metal, and waterproofing.",
+      "primaryLabel": "Explore Products",
+      "primaryHref": "products.html",
+      "secondaryLabel": "Paint Calculator",
+      "secondaryHref": "calculator.html",
+      "image": "assets/projects/project-08.jpg"
+    },
+    {
+      "eyebrow": "Based in Bulawayo",
+      "heading": "Colour, care, and practical <em>expertise</em>.",
+      "body": "Talk to Global Paints & Coatings about the right product for your next project.",
+      "primaryLabel": "Request a Quote",
+      "primaryHref": "contact.html",
+      "secondaryLabel": "Call the team",
+      "secondaryHref": "tel:0780281611",
+      "image": "assets/projects/project-03.jpg"
+    }
+  ],
+  "products": [
+    {
+      "slug": "wall-coat",
+      "name": "Wall Coat",
+      "alias": null,
+      "tagline": "Durable acrylic/PVA coating for interior & exterior masonry.",
+      "description": "Acrylic/PVA wall coating designed for durable decorative protection of interior and exterior masonry surfaces. Suitable for properly prepared surfaces, with good adhesion and coverage.",
+      "use": "Interior/exterior walls",
+      "size": "20L",
+      "coverageLow": 100,
+      "coverageHigh": 120,
+      "lifespan": "5–7 years",
+      "surfaces": [
+        "interior",
+        "exterior"
+      ],
+      "colours": [
+        "Grey",
+        "Cream",
+        "White"
+      ],
+      "features": [
+        "Smooth, durable finish",
+        "Good adhesion",
+        "Easy application",
+        "Suitable for properly prepared masonry surfaces",
+        "Good coverage",
+        "Recommended: 2 coats for a uniform finish"
+      ],
+      "recommendedCoats": 2,
+      "availableSizes": [
+        20
+      ],
+      "image": "assets/products/wall-coat.jpg",
+      "price": 25
+    },
+    {
+      "slug": "wall-primer",
+      "name": "Wall Primer",
+      "alias": "also on packaging as Gorilla Primer",
+      "tagline": "Penetrating primer that prepares porous walls before finishing.",
+      "description": "Penetrating/sealing primer that prepares porous surfaces and improves the adhesion and uniformity of the finishing coat.",
+      "use": "Sealing and preparing walls",
+      "size": "20L",
+      "coverageLow": 100,
+      "coverageHigh": 120,
+      "lifespan": "5+ years as primer",
+      "surfaces": [
+        "preparation",
+        "interior",
+        "exterior"
+      ],
+      "colours": null,
+      "recommendedCoats": 1,
+      "availableSizes": [
+        20
+      ],
+      "image": "assets/products/wall-primer.jpg",
+      "price": 17
+    },
+    {
+      "slug": "roof-and-stoep",
+      "name": "Roof & Stoep",
+      "alias": "also on packaging as Giraffe Roof & Stoep",
+      "tagline": "Protective coating for roofs, floors, concrete and stoeps.",
+      "description": "Durable coating for concrete, masonry and suitable roof/floor surfaces, providing colour and protective coverage.",
+      "use": "Roofs, floors, concrete & stoeps",
+      "size": "5L",
+      "coverageLow": 25,
+      "coverageHigh": 35,
+      "lifespan": "3–5 years",
+      "surfaces": [
+        "roofs"
+      ],
+      "colours": null,
+      "recommendedCoats": 2,
+      "availableSizes": [
+        5
+      ],
+      "image": null,
+      "price": 15
+    },
+    {
+      "slug": "elegant-silk-interior",
+      "name": "Elegant Silk Interior",
+      "alias": "also on packaging as Lion Silk Washable / Elegant Silk",
+      "tagline": "Premium washable interior finish with a smooth silk sheen.",
+      "description": "Premium washable interior coating with a smooth silk appearance, designed for areas requiring an attractive and cleanable finish.",
+      "use": "Premium interior walls",
+      "size": "20L",
+      "coverageLow": 100,
+      "coverageHigh": 120,
+      "lifespan": "7–8 years",
+      "surfaces": [
+        "interior"
+      ],
+      "colours": null,
+      "features": [
+        "Smooth silk finish",
+        "Excellent washability",
+        "Excellent hiding",
+        "Low odour",
+        "Durable",
+        "Resists yellowing",
+        "Luxurious & elegant finish",
+        "Excellent coverage",
+        "Quick dry"
+      ],
+      "recommendedCoats": 2,
+      "availableSizes": [
+        20
+      ],
+      "image": "assets/products/elegant-silk.jpg",
+      "price": 65
+    },
+    {
+      "slug": "weather-coat-exterior",
+      "name": "Weather Coat Exterior",
+      "alias": "also on packaging as Elephant Exterior",
+      "tagline": "Exterior-grade colour and protection against outdoor weathering.",
+      "description": "Exterior-grade coating formulated to provide decorative colour and protection against normal outdoor weathering.",
+      "use": "Exterior walls",
+      "size": "20L",
+      "coverageLow": 90,
+      "coverageHigh": 110,
+      "lifespan": "5–7 years",
+      "surfaces": [
+        "exterior"
+      ],
+      "colours": null,
+      "recommendedCoats": 2,
+      "availableSizes": [
+        20
+      ],
+      "image": null,
+      "price": 65
+    },
+    {
+      "slug": "universal-undercoat",
+      "name": "Universal Undercoat",
+      "alias": null,
+      "tagline": "High-build preparatory coat for wood and metal.",
+      "description": "High-build preparatory coating designed to improve adhesion, coverage and finish consistency before the final coat.",
+      "use": "Wood and metal preparation",
+      "size": "20L",
+      "coverageLow": 100,
+      "coverageHigh": 120,
+      "lifespan": "5+ years as undercoat",
+      "surfaces": [
+        "preparation",
+        "wood",
+        "metal"
+      ],
+      "colours": null,
+      "recommendedCoats": 1,
+      "availableSizes": [
+        20
+      ],
+      "image": null,
+      "price": 80
+    },
+    {
+      "slug": "pinkwood-primer",
+      "name": "Pinkwood Primer",
+      "alias": "also on packaging as Pink Wood Primer",
+      "tagline": "Wood primer that seals and prepares timber for finishing.",
+      "description": "Wood primer designed to seal and prepare timber before application of the finishing coat.",
+      "use": "Wooden surfaces",
+      "size": "5L",
+      "coverageLow": 25,
+      "coverageHigh": 35,
+      "lifespan": "5+ years as primer",
+      "surfaces": [
+        "preparation",
+        "wood"
+      ],
+      "colours": null,
+      "recommendedCoats": 1,
+      "availableSizes": [
+        5
+      ],
+      "image": null,
+      "price": 20
+    },
+    {
+      "slug": "red-oxide",
+      "name": "Red Oxide",
+      "alias": null,
+      "tagline": "Anti-corrosive primer for ferrous metal.",
+      "description": "Anti-corrosive primer for ferrous metal surfaces before application of a suitable finishing coat.",
+      "use": "Ferrous metal protection",
+      "size": "5L",
+      "coverageLow": 25,
+      "coverageHigh": 35,
+      "lifespan": "3–5 years",
+      "surfaces": [
+        "metal",
+        "preparation"
+      ],
+      "colours": null,
+      "recommendedCoats": 1,
+      "availableSizes": [
+        5
+      ],
+      "image": null,
+      "price": 15
+    },
+    {
+      "slug": "gloss-enamel",
+      "name": "Gloss Enamel",
+      "alias": null,
+      "tagline": "High-gloss finish for properly prepared wood and metal.",
+      "description": "High-gloss decorative finish for properly prepared wood and metal surfaces.",
+      "use": "Wood and metal finishing",
+      "size": "5L",
+      "coverageLow": 30,
+      "coverageHigh": 40,
+      "lifespan": "5–7 years",
+      "surfaces": [
+        "wood",
+        "metal"
+      ],
+      "colours": null,
+      "recommendedCoats": 2,
+      "availableSizes": [
+        5
+      ],
+      "image": null,
+      "price": 25
+    },
+    {
+      "slug": "brick-dressing",
+      "name": "Brick Dressing",
+      "alias": null,
+      "tagline": "Protective, decorative coating for brick and masonry.",
+      "description": "Protective decorative coating for brick and masonry, enhancing appearance while helping protect the substrate.",
+      "use": "Brick and masonry surfaces",
+      "size": "5L",
+      "coverageLow": 25,
+      "coverageHigh": 40,
+      "lifespan": "3–5 years",
+      "surfaces": [
+        "masonry"
+      ],
+      "colours": null,
+      "recommendedCoats": 2,
+      "availableSizes": [
+        5
+      ],
+      "image": null,
+      "price": 25
+    },
+    {
+      "slug": "vanish",
+      "name": "Vanish",
+      "alias": null,
+      "tagline": "Protective finishing and sealing for prepared surfaces.",
+      "description": "Protective finishing/sealing product for suitable prepared surfaces.",
+      "use": "Protective finishing/sealing",
+      "size": "5L",
+      "coverageLow": 25,
+      "coverageHigh": 35,
+      "lifespan": "3–5 years",
+      "surfaces": [
+        "preparation"
+      ],
+      "colours": null,
+      "recommendedCoats": 1,
+      "availableSizes": [
+        5
+      ],
+      "image": null,
+      "price": 20
+    },
+    {
+      "slug": "liquid-rubber-paint",
+      "name": "Liquid Rubber Paint",
+      "alias": null,
+      "tagline": "Flexible waterproofing membrane for protection.",
+      "description": "Flexible waterproofing coating designed to form a protective membrane over suitable surfaces.",
+      "use": "Waterproofing and protection",
+      "size": "20L",
+      "coverageLow": 40,
+      "coverageHigh": 60,
+      "lifespan": "5–10 years",
+      "surfaces": [
+        "waterproofing"
+      ],
+      "colours": null,
+      "recommendedCoats": 2,
+      "availableSizes": [
+        20
+      ],
+      "image": null,
+      "price": 80
+    }
+  ],
+  "projects": [
+    {
+      "file": "assets/projects/project-01.jpg",
+      "caption": "Residential exterior project — roof and wall work"
+    },
+    {
+      "file": "assets/projects/project-02.jpg",
+      "caption": "Residential exterior project"
+    },
+    {
+      "file": "assets/projects/project-03.jpg",
+      "caption": "Roof and exterior work"
+    },
+    {
+      "file": "assets/projects/project-04.jpg",
+      "caption": "Completed exterior project"
+    },
+    {
+      "file": "assets/projects/project-05.jpg",
+      "caption": "Roof coating detail"
+    },
+    {
+      "file": "assets/projects/project-06.jpg",
+      "caption": "Exterior wall and boundary project"
+    },
+    {
+      "file": "assets/projects/project-07.jpg",
+      "caption": "Boundary wall project"
+    },
+    {
+      "file": "assets/projects/project-08.jpg",
+      "caption": "Residential exterior project"
+    },
+    {
+      "file": "assets/projects/project-09.jpg",
+      "caption": "Exterior detail"
+    },
+    {
+      "file": "assets/projects/project-10.jpg",
+      "caption": "Exterior wall project"
+    },
+    {
+      "file": "assets/projects/project-11.jpg",
+      "caption": "Global Paints project gallery"
+    },
+    {
+      "file": "assets/projects/project-12.jpg",
+      "caption": "Residential exterior project"
+    },
+    {
+      "file": "assets/projects/project-13.jpg",
+      "caption": "Completed project"
+    }
+  ]
+}
